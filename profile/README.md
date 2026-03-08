@@ -29,7 +29,7 @@ We are always looking for passionate developers to join our journey!
 ---
 
 ### 🔗 Connect With Us
-* **GitHub Pages:** [koala-devs.github.io]https://github.com/Koala-Devs)
+* **GitHub Pages:** [koala-devs.github.io](https://github.com/Koala-Devs)
 * **Discord/Social:** [Coming soon...]
 
 *"Slow and steady wins the race—just like a Koala (but with faster code)."*
